@@ -8,8 +8,10 @@ metaTags: []
 title: Impacto Raiar
 date: '2022-06-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Raiar são uma oportunidade para quem deseja participar de um projeto que, além
+  de rentável, envolve produção de alimentos orgânicos, preocupação com o
+  bem-estar animal e o empoderamento da agricultura familiar. O lastro da
+  operação é um título de dívida, no qual a Raiar Orgânicos é a devedora.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
