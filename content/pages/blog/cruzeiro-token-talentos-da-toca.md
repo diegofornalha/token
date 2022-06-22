@@ -5,7 +5,11 @@ metaTitle: >-
   Latina e obter pagamentos a cada nova transferência de jogadores formados pelo
   Cruzeiro Esporte Clube e que já estão fora do clube a partir do Mecanismo de
   Solidariedade.
-metaDescription: null
+metaDescription: >-
+  Agora você pode adquirir tokens de um dos maiores clubes de futebol da América
+  Latina e obter pagamentos a cada nova transferência de jogadores formados pelo
+  Cruzeiro Esporte Clube e que já estão fora do clube a partir do Mecanismo de
+  Solidariedade.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
