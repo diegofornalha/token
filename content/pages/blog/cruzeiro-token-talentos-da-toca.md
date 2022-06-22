@@ -8,7 +8,7 @@ metaTitle: >-
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: cruzeiro-token-talentos-da-toca
+title: cruzeiro token
 date: '2022-06-01'
 excerpt: >-
   Agora você pode adquirir tokens de um dos maiores clubes de futebol da América
