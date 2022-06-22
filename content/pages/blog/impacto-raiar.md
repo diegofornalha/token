@@ -12,11 +12,6 @@ excerpt: >-
   de rentável, envolve produção de alimentos orgânicos, preocupação com o
   bem-estar animal e o empoderamento da agricultura familiar. O lastro da
   operação é um título de dívida, no qual a Raiar Orgânicos é a devedora.
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
